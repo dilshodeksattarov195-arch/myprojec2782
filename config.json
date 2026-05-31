@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configsave",
+        "uuid": 19657612,
+        "checksum": "510bej"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
